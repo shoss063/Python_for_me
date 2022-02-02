@@ -19,3 +19,16 @@ f = str('Blue')
 print(type(x))
 print(type(f))
 print(f)
+#define veriables
+myvar = "KeyboardInterrupt" #naming
+my_var = "kapitol" #snale naming
+VarMmine = 'rand' #pascal naming??
+d, s, a, w = 'right', 'down', 'left', 'up'
+print(s)
+#lists
+fruits = ["apple", "banana", "cherry"]
+q, r, t, = fruits
+print(q)
+print(r)
+print(t)
+print("is a fruit " + q)
