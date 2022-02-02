@@ -1,0 +1,21 @@
+print("hello, world!") #First line of python
+if 5 > 2: #did nto even need to define it
+  print("five is greater than two") #again, not defining 
+x=5
+y="hello, world"
+print(x) #comment?
+#python does not have a command for veriables
+#all you need to do is name it and start typing
+
+x = 6 #x is an int
+y = "JamesWebb" #this is a str (string)
+print(y)
+
+z=float(4)
+print(z)
+
+#sing and double quote mean the same thing
+f = str('Blue')
+print(type(x))
+print(type(f))
+print(f)
